@@ -13,3 +13,5 @@ This is a hacked modification for Minecraft Forge 1.12.2 [{ _deadcode } (Discord
 
   [JavaInjector]: https://github.com/TheQmaks/JavaInjector
   [{ _deadcode } (Discord Server)]: https://discord.gg/f7nFjMp
+  
+  Safe do bereguejau
